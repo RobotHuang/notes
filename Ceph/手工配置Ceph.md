@@ -62,7 +62,7 @@ wget -O /etc/yum.repos.d/epel.repo http://mirrors.aliyun.com/repo/epel-7.repo
 
 
 
-/etc/yum.repos.d/ceph.repo 内容如下
+ o 内容如下
 
 
 
